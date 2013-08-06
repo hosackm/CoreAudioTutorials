@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CAExample3' target in the 'CAExample3' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
