@@ -11,3 +11,6 @@ Audio Format setting and getting
 
 ## Example 4
 Recording with Audio Queues and Buffers
+
+## Example 5
+Playback a file
